@@ -1,0 +1,20 @@
+{
+    "AddToCartBtn":".downloadable.has-post-author.has-post-category.has-post-comment.has-post-tag.has-post-title.instock.no-post-date.post-165.product.product-type-simple > .add_to_cart_button.ajax_add_to_cart.button.product_type_simple",
+    "NavigateCartBtn":"[title='View Basket']",
+    "checkoutButton":".checkout-button",
+    "FirstName":"#billing_first_name",
+    "LastName":"#billing_last_name",
+    "Company":"#billing_company",
+    "Email":"input#billing_email",
+    "phoneNum":"#billing_phone",
+    "CountryDropdown":"div#s2id_billing_country  .select2-chosen",
+    "SearchField":"div#select2-drop  input[role='combobox']",
+    "Nigeria":".select2-match",
+    "StreetAddress":"[placeholder='Street address']",
+    "City":"#billing_city",
+    "State":"#billing_state",
+    "PostCode":"#billing_postcode",
+    "AdditionalInfo":"textarea",
+    "PlaceOrderBtn":"[value='Place order']",
+    "VerifyTxtBtn":".wc-bacs-bank-details-heading"
+    }
