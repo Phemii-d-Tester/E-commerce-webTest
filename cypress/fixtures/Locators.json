@@ -1,0 +1,12 @@
+
+  
+{
+    "MenuButton": "#menu-icon",
+    "CartAmount": "[title] .amount",
+    "ShopButton": "#main-nav .menu-item-object-page:nth-of-type(1) [href]",
+    "PriceTag": ".downloadable.has-post-author.has-post-category.has-post-comment.has-post-tag.has-post-title.instock.no-post-date.post-165.product.product-type-simple > .woocommerce-LoopProduct-link > .price > .amount.woocommerce-Price-amount",
+    "MJBook": "[class='post-165 product type-product status-publish product_cat-javascript product_tag-javascript product_tag-mastering has-post-title no-post-date has-post-category has-post-tag has-post-comment has-post-author  instock downloadable taxable shipping-taxable purchasable product-type-simple'] .product_type_simple",
+    "CartButton": "[title='View your shopping cart']",
+    "RemoveItemButton": "[title='Remove this item']",
+    "VerificationText": ".woocommerce-message"
+  }
