@@ -16,7 +16,7 @@
 // Import commands.js using ES2015 syntax:
 import './commands'
 import 'cypress-mailslurp'
-
+import './Custom-commands/Custom.actions.cy'
 before(() => {
     cy.visit('/');
 cy.on('uncaught:exception', () => {
