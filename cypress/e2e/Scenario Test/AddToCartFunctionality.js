@@ -2,7 +2,7 @@ import { Given, When, Then } from "@badeball/cypress-cucumber-preprocessor";
 
 
 Given('I have verified initial cart value', () => {
-    cy.VerifyInitialCartPrice();
+    cy.VerifyInitialCartPrice;
 });
 
 When('I add an item to cart', () => {
